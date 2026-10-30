@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.540
+Il se souvient de chaque personne, te dit qui contacter aujourd'hui,
+
+2
+00:00:03.590 --> 00:00:07.050
+t'écrit le message pour cette personne.
+
+3
+00:00:07.100 --> 00:00:10.490
+Comment ça marche ? À 8 h, il te réveille : il te dit
+
+4
+00:00:10.540 --> 00:00:15.990
+qui contacter aujourd'hui et te rappelle d'ajouter les trois personnes du jour. Pas trois cents.
+
+5
+00:00:16.040 --> 00:00:21.150
+Parce que si tu ajoutes trois cents personnes en un jour, tu ne peux plus gérer les relations.
+
+6
+00:00:21.200 --> 00:00:26.650
+Trois par jour, ça fait quatre-vingt-dix par mois. Je vous défie d'avoir quatre-vingt-dix conversations en un mois
+
+7
+00:00:26.700 --> 00:00:31.930
+et de vraiment vous connecter avec quatre-vingt-dix personnes : c'est compliqué.
+
+8
+00:00:31.980 --> 00:00:35.230
+Vous ne vous souviendriez de rien.
+
+9
+00:00:35.280 --> 00:00:39.900
+Donc trois par jour, c'est déjà énormément de travail.
+
+10
+00:00:39.950 --> 00:00:44.370
+Le premier jour c'est un quart d'heure, le deuxième un quart d'heure, mais au bout d'un mois ça devient
+
+11
+00:00:44.420 --> 00:00:52.190
+vingt, vingt-cinq minutes, parce que tu ajoutes les nouveaux contacts plus ceux lancés les jours précédents.
+
+12
+00:00:52.240 --> 00:00:54.500
+Mais à 8 h, RelAI te dit : «Écoute,
+
+13
+00:00:54.550 --> 00:01:00.000
+tu dois recontacter les personnes à qui tu as parlé il y a trois jours, il y a quinze jours».
+
+14
+00:01:00.050 --> 00:01:05.950
+Et ensuite il te rappelle d'ajouter des personnes. Comme vous voyez, voici des exemples : Laura, Paolo et Sara.
+
+15
+00:01:06.000 --> 00:01:10.110
+Voyons ça en pratique. Toi, tu fais quoi ?
+
+16
+00:01:10.160 --> 00:01:15.410
+Tu ajoutes une personne : tu donnes le nom, le numéro
+
+17
+00:01:15.460 --> 00:01:17.300
+et le contexte.
+
+18
+00:01:17.350 --> 00:01:23.200
+C'est essentiel, parce que si tu lui donnes le contexte…
+
+19
+00:01:23.250 --> 00:01:28.700
+Prenons un exemple simple :
+
+20
+00:01:28.750 --> 00:01:31.500
+«En mai, le fils de Laura est parti à l'université.»
+
+21
+00:01:31.550 --> 00:01:34.490
+RelAI crée le message avec le contexte que tu lui donnes.
+
+22
+00:01:34.540 --> 00:01:40.780
+C'est un exemple : si tu lui dis aussi la ville, encore mieux. Tu lui dis quand tu l'as connue,
+
+23
+00:01:40.830 --> 00:01:42.820
+tout ce dont tu te souviens d'elle.
+
+24
+00:01:42.870 --> 00:01:47.900
+Et il ne te crée pas le mauvais message, «je te propose une opportunité».
+
+25
+00:01:47.950 --> 00:01:52.700
+Il construit la relation avec Laura, et ensuite il comprendra quand
+
+26
+00:01:52.750 --> 00:01:58.680
+l'amener à l'objectif que tu as déjà fixé avant de commencer.
+
+27
+00:01:58.730 --> 00:02:04.450
+Ensuite tu colles la réponse qu'elle a donnée au message que tu as envoyé.
+
+28
+00:02:04.500 --> 00:02:10.080
+RelAI lit la réponse et t'écrit un autre message, et ainsi de suite,
+
+29
+00:02:10.130 --> 00:02:16.270
+jusqu'à ce qu'un historique se crée. RelAI continuera à t'aider à construire la relation
+
+30
+00:02:16.320 --> 00:02:20.010
+avec ces personnes, jusqu'à ce que tu les amènes à l'objectif
+
+31
+00:02:20.060 --> 00:02:25.370
+fixé au départ. Le soir, au bilan du soir, il te dit tout le travail que tu as fait
+
+32
+00:02:25.420 --> 00:02:31.090
+et te donne l'objectif du lendemain.
